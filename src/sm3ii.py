@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class SM3IIScratch:
     def __init__(self, dim, cover, eta=0.1, eps=1e-10):
         self.eta = eta
