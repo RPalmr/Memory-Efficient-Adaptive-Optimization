@@ -1,6 +1,6 @@
 example/
 *.pdf
-*.md
+blog.md
 __pycache__/
 *.pyc
 .pytest_cache/
